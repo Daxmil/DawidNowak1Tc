@@ -244,12 +244,12 @@ td {
   #text {
     font-family: "Patrick Hand", sans-serif;
     position: absolute;
-    top: 13px;
+    top: 2px;
     left: 37%;
     right: 10%;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 900;
-    color: rgb(130, 207, 136);
+    color: rgb(20, 88, 25);
     text-transform: capitalize;
     font-style: oblique;
     text-decoration: none;
