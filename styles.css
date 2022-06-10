@@ -341,10 +341,10 @@ td {
   #text {
     font-family: "Patrick Hand", sans-serif;
     position: absolute;
-    top: 0px;
+    top: -1px;
     left: 23%;
     right: 10%;
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 9000;
     color: rgb(221, 119, 51);
     text-transform: capitalize;
