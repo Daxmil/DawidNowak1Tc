@@ -244,7 +244,7 @@ td {
   #text {
     font-family: "Patrick Hand", sans-serif;
     position: absolute;
-    top: 2px;
+    top: 0px;
     left: 37%;
     right: 10%;
     font-size: 30px;
